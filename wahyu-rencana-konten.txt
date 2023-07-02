@@ -4,6 +4,7 @@ RENCANA KONTEN WAHYU
   * ES6
   * Frameworks Javascript
     ^ Vue
+    ^ React
 - Dasar Struktur Data
 - PHP Frameworks
   ^ Laravel
