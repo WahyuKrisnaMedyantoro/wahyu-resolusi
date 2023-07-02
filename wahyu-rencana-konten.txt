@@ -3,7 +3,9 @@ RENCANA KONTEN WAHYU
 - Javascript
   * ES6
   * Frameworks Javascript
-- Dasar Struktur Data
+    ^ Angular
+    ^ React
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlog
